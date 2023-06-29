@@ -1,6 +1,6 @@
 /*!
  * Name : Code Station Community
- * Details : framework js for csc
+ * Details : framework for csc
  * Author : Romeo89
  * Website : https://www.cscplus.work
  */
