@@ -1,7 +1,7 @@
 /*!
  * Name : Code Station Community
  * Details : player for csc
- * Author : Romeo89
+ * Owner : Romeo89
  * Website : https://www.cscplus.work
  */
 const urlList = {
